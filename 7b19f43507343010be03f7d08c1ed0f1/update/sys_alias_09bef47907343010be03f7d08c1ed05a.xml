@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_522726_docgen.Git</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Git</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-17 21:22:26</sys_created_on>
+        <sys_id>09bef47907343010be03f7d08c1ed05a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_522726_docgen.Git</sys_name>
+        <sys_package display_value="ServiceNow Documentation Generator" source="x_522726_docgen">7b19f43507343010be03f7d08c1ed0f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Documentation Generator">7b19f43507343010be03f7d08c1ed0f1</sys_scope>
+        <sys_update_name>sys_alias_09bef47907343010be03f7d08c1ed05a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-17 21:22:26</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+</record_update>
