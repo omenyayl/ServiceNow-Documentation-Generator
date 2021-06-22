@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="DELETE">
+        <category>general</category>
+        <client_script/>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_522726_docgen_Home.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	hello world!
+</j:jelly>]]></html>
+        <name>Home</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-17 21:34:41</sys_created_on>
+        <sys_id>f7010df907343010be03f7d08c1ed0cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="ServiceNow Documentation Generator" source="x_522726_docgen">7b19f43507343010be03f7d08c1ed0f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Documentation Generator">7b19f43507343010be03f7d08c1ed0f1</sys_scope>
+        <sys_update_name>sys_ui_page_f7010df907343010be03f7d08c1ed0cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-17 21:34:41</sys_updated_on>
+    </sys_ui_page>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ServiceNow Documentation Generator">7b19f43507343010be03f7d08c1ed0f1</application>
+        <file_path/>
+        <instance_id>fdc340bddbff9f001ddcf22ebf9619d8</instance_id>
+        <instance_name>dev69442</instance_name>
+        <name>sys_ui_page_f7010df907343010be03f7d08c1ed0cd</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_page"&gt;&lt;sys_ui_page action="INSERT_OR_UPDATE"&gt;&lt;category&gt;general&lt;/category&gt;&lt;client_script/&gt;&lt;description/&gt;&lt;direct&gt;false&lt;/direct&gt;&lt;endpoint&gt;x_522726_docgen_Home.do&lt;/endpoint&gt;&lt;html&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="utf-8" ?&gt;
+&lt;j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null"&gt;
+	hello world!
+&lt;/j:jelly&gt;]]&gt;&lt;/html&gt;&lt;name&gt;Home&lt;/name&gt;&lt;processing_script/&gt;&lt;sys_class_name&gt;sys_ui_page&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-06-17 21:34:41&lt;/sys_created_on&gt;&lt;sys_id&gt;f7010df907343010be03f7d08c1ed0cd&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Home&lt;/sys_name&gt;&lt;sys_package display_value="ServiceNow Documentation Generator" source="x_522726_docgen"&gt;7b19f43507343010be03f7d08c1ed0f1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ServiceNow Documentation Generator"&gt;7b19f43507343010be03f7d08c1ed0f1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_page_f7010df907343010be03f7d08c1ed0cd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-06-17 21:34:41&lt;/sys_updated_on&gt;&lt;/sys_ui_page&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-866439251</payload_hash>
+        <record_name>Home</record_name>
+        <reverted_from/>
+        <source>291f74b907343010be03f7d08c1ed0d2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-17 21:34:41</sys_created_on>
+        <sys_id>82810df907343010be03f7d08c1ed0df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a1be5c5c30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-17 21:34:41</sys_updated_on>
+        <type>UI Page</type>
+        <update_guid>ca810df97634301015665d399679e5de</update_guid>
+        <update_guid_history>ca810df97634301015665d399679e5de:-866439251</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-18 00:47:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_page">sys_ui_page</sys_db_object>
+        <sys_id>43b1b2682a44469699f57501921c11b1</sys_id>
+        <sys_metadata>f7010df907343010be03f7d08c1ed0cd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="ServiceNow Documentation Generator" source="x_522726_docgen">7b19f43507343010be03f7d08c1ed0f1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Documentation Generator">7b19f43507343010be03f7d08c1ed0f1</sys_scope>
+        <sys_scope_delete display_value="">3b8c68e02404483aa827aa27067d5dd9</sys_scope_delete>
+        <sys_update_name>sys_ui_page_f7010df907343010be03f7d08c1ed0cd</sys_update_name>
+        <sys_update_version display_value="sys_ui_page_f7010df907343010be03f7d08c1ed0cd">82810df907343010be03f7d08c1ed0df</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-18 00:47:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
